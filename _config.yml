@@ -1,0 +1,22 @@
+# Site settings
+title: Tara Butler
+name: Tara Butler
+email: tarabutler829@gmail.com
+description: "Blog of Tara Butler. Atlanta based web developer."
+url: "http://taraabutler.com"
+
+# Build settings
+markdown: kramdown
+highlighter: pygments
+permalink: pretty
+paginate: 5
+exclude: ["less","node_modules","Gruntfile.js","package.json","README.md"]
+
+
+social:
+  - title: linkedin
+    url: https://www.linkedin.com/in/butlertara
+  - title: github
+    url: https://github.com/tarabutler
+  - title: instagram
+    url: https://instagram.com/_tabutler/
