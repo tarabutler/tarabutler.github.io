@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "UX Crash Course Pt 1"
+title:      "UX Crash Course Pt 1 by Joel Marsh"
 subtitle:   "31 Fundamentals of UX"
 date:       2015-06-21 12:00:00
 header-img: "img/23bg_15.jpg"

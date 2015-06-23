@@ -1,6 +1,6 @@
 ---
 layout: post
-title:      "UX Crash Course Pt 2"
+title:      "UX Crash Course Pt 2 by Joel Marsh"
 subtitle:   "User Psychology"
 date:       2015-06-22 12:00:00
 header-img: "img/23bg_12.jpg"
