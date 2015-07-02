@@ -2,7 +2,7 @@
 layout: post
 title:      "The Importance of Psychology in Web Design by Henry Lewington"
 subtitle:   "Considering the psychological drivers of the target audience can have a surprisingly positive influence on how users will utilise a website..."
-date:       2014-04-05 12:00:00
+date:       2015-04-05 12:00:00
 header-img: "img/23bg_18.jpg"
 ---
 
